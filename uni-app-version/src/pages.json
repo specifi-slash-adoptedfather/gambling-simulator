@@ -1,0 +1,18 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "打赌助手",
+				"navigationBarBackgroundColor": "#10b981",
+				"navigationBarTextStyle": "white"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "打赌助手",
+		"navigationBarBackgroundColor": "#10b981",
+		"backgroundColor": "#f5f5f5"
+	}
+}

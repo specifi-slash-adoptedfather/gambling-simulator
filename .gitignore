@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.hbuilderx/
+.vscode/
+.idea/
+android-signing/
+project.private.config.json
+uni-app-version/dist/
+.DS_Store
+*.log
